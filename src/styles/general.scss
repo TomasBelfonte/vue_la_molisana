@@ -1,0 +1,10 @@
+@use "./partials/variables" as *;
+
+@import "bootstrap/scss/bootstrap";
+
+.my-tyext-primary {
+    color: red;
+    font-size: 2rem;
+}
+
+$color-primary: blue;
